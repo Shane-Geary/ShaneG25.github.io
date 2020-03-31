@@ -1,11 +1,11 @@
 # Site settings
-author: Shane Geary
-title: 
+author: Shane Geary 
+title: Colorado music venues CLI data gem
 header-img: img/home-bg.png
 email: stg4462@comcast.net
-copyright_name: Shane Geary
+copyright_name: Shane Geary 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My experience doing the CLI data gem portfolio project.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShaneG25
