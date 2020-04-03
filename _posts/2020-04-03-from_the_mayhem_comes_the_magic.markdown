@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "From the mayhem comes the magic"
+title:      "From the mayhem comes the magic- CLI data gem project "
 date:       2020-04-03 10:21:13 -0400
 permalink:  from_the_mayhem_comes_the_magic
 ---
