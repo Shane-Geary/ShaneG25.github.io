@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From the mayhem comes the magic"
-date:       2020-04-03 14:21:12 +0000
+date:       2020-04-03 10:21:13 -0400
 permalink:  from_the_mayhem_comes_the_magic
 ---
 
@@ -14,7 +14,7 @@ The CLI data gem project was the first time we were truly set out on our own to 
 
 Coming into the project, I was definitely hit with the intimidation factor. Starting with an empty file or blank slate and being asked to take everything I had learned and create something out of nothing was a challenge. It was almost like I couldn't pull the information out of my head to even start anywhere. I felt like I had learned so much coming up to this point and yet it made me feel as though I had learned so little, or at least hadn't retained things as well as I should've. 
 
-I realized, talking to other students and some teachers, that I had likely flown through the course a little too fast. I found myself going back to study a lot of the OO concepts and beyond. Which isn't by any means a bad thing. However, I knew in hindsight, that if I had taken more time in the beginning of the course and really enforced those early concepts, then I wouldn't have struggled as much (or taken as much time to complete the project and get past errors). But after some great teachers (and fellow students) helped put me on the right track with articles and videos to study, I was well on my way. 
+I realized, talking to other students and some teachers, that I had likely flown through the course a little too fast. I found myself going back to study a lot of the OO concepts and beyond. Which isn't by any means a bad thing. However, I knew in hindsight, that if I had taken more time in the beginning of the course and really enforced those early concepts, then I wouldn't have struggled as much (or taken as much time to complete the project and get past errors). After some great teachers (and fellow students) helped put me on the right track with articles and videos to study, I was well on my way. 
 
-The biggest problem I struggled with was probably the scraping of data. I got past this with some of the informative articles on the scraping subject given to me by a fellow student and teacher and guidance in some of the open office hour study groups provided for the project. Once I got that figured out, it was more or less smoother sailing. All of the weekly study groups were a vital resource. It's a great feeling when you get that last error fixed and your program is running the way it should, definitely something to be proud of. 
+The biggest problem I struggled with was probably the scraping of data. I got past this with some informative articles on scraping and guidance in some of the open office hour study groups provided for the project. Once I got that figured out, it was more or less smoother sailing. All of the weekly study groups were a vital resource. It's a great feeling when you get that last error fixed and your program is running the way it should, definitely something to be proud of. 
 
