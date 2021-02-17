@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Project- Live Events"
-date:       2021-02-17 23:44:02 +0000
+date:       2021-02-17 18:44:04 -0500
 permalink:  javascript_project-_live_events
 ---
 
